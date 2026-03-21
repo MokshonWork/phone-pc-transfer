@@ -125,9 +125,7 @@ This project is open source and available under the MIT License.
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## Author
 
-Your Name - Feel free to contact me!
 
 ---
 
